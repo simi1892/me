@@ -1,6 +1,6 @@
 import { T } from "../state.ts";
 
-export default function Business() {
+export default function Contact() {
   const t = T.value;
   if (!t) {
     return null;
