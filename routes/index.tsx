@@ -1,7 +1,13 @@
 import { Head } from "$fresh/runtime.ts";
-import TitleScreen from "../components/TitleScreen.tsx"
+import { PageProps } from "$fresh/server.ts";
+import TitleScreen from "../components/TitleScreen.tsx";
+import LanguageToggle from "../islands/LanguageToggle.tsx";
+import { T } from "../state.ts";
+import { State } from "./_middleware.tsx";
 
-export default function Home() {
+export default function Home(props: PageProps<null, State>) {
+  T.value = props.state.t;
+  
   return (
     <>
       <Head>
@@ -12,7 +18,7 @@ export default function Home() {
         <header class="py-4 flex justify-between items-center">
           <h1 class="text-2xl font-bold">My Portfolio</h1>
           <div class="flex items-center space-x-4">
-            <p>Kommt</p>
+            <LanguageToggle lang={props.state.lang} />
           </div>
         </header>
         <main>
