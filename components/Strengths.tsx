@@ -13,7 +13,7 @@ export default function Strengths() {
 
   return (
     <section className="py-12">
-      <h2 className="text-3xl font-bold mb-6">Strengths</h2>
+      <h2 className="text-3xl font-bold mb-6">{t.strengths.title}</h2>
       <p className="mt-6 text-sm text-gray-600">
         {t.strengths.description}
       </p>

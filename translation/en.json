@@ -3,7 +3,14 @@
     "hello": "Hello, I'm Simon",
     "description": "Developer and Human Being"
   },
+  "business": {
+    "title": "Business"
+  },
+  "studies": {
+    "title": "Studies"
+  },
   "strengths": {
+    "title": "Strengths",
     "1": "Harmony",
     "2": "Developer",
     "3": "Positivity",
@@ -17,5 +24,11 @@
     "description": "Through Gallup's CliftonStrengths Finder, I have analyzed my individual talents and use them in a targeted way to make the most of my natural strengths.",
     "url": "https://www.gallup.com/cliftonstrengths/en/253715/34-cliftonstrengths-themes.aspx",
     "urlText": "More infos"
+  },
+  "hobbies": {
+    "title": "Hobbies"
+  },
+  "friendReviews": {
+  "title": "Friend Reviews"
   }
 }
