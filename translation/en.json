@@ -1,6 +1,21 @@
 {
-    "titleScreen": {
-        "hello": "Hello, I'm Simon",
-        "description": "Developer and Human Being"
-    }
+  "titleScreen": {
+    "hello": "Hello, I'm Simon",
+    "description": "Developer and Human Being"
+  },
+  "strengths": {
+    "1": "Harmony",
+    "2": "Developer",
+    "3": "Positivity",
+    "4": "Learner",
+    "5": "Woo",
+    "6": "Includer",
+    "7": "Consistency",
+    "8": "Communication",
+    "9": "Empathy",
+    "10": "Arranger",
+    "description": "Through Gallup's CliftonStrengths Finder, I have analyzed my individual talents and use them in a targeted way to make the most of my natural strengths.",
+    "url": "https://www.gallup.com/cliftonstrengths/en/253715/34-cliftonstrengths-themes.aspx",
+    "urlText": "More infos"
+  }
 }

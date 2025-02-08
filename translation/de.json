@@ -1,6 +1,21 @@
 {
-    "titleScreen": {
-        "hello": "Hallo, ich bin Simon",
-        "description": "Entwickler und Mensch"
-    }
+  "titleScreen": {
+    "hello": "Hallo, ich bin Simon",
+    "description": "Entwickler und Mensch"
+  },
+  "strengths": {
+    "1": "Harmoniestreben",
+    "2": "Entwicklung",
+    "3": "Positive Einstellung",
+    "4": "Wissbegier",
+    "5": "Kontaktfreudigkeit",
+    "6": "Integrationsbestreben",
+    "7": "Gleichbehandlung",
+    "8": "Kommunikationsfähigkeit",
+    "9": "Einfühlungsvermögen",
+    "10": "Arrangeur",
+    "description": "Durch den CliftonStrengths Finder von Gallup habe ich meine individuellen Talente analysiert und setze diese gezielt ein, um das Beste aus meinen natürlichen Stärken herauszuholen.",
+    "url": "https://www.gallup.com/cliftonstrengths/de/253712/34-CliftonStrengths-Talentthemen.aspx",
+    "urlText": "Mehr Infos"
+  }
 }
