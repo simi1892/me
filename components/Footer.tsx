@@ -1,4 +1,3 @@
-import { Linkedin, Mail, Twitter } from "lucide-react";
 import { GitHubIcon } from "./Icons.tsx";
 
 export default function Footer() {
