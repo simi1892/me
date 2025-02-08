@@ -26,10 +26,32 @@
     "urlText": "More infos"
   },
   "hobbies": {
-    "title": "Hobbies"
+    "title": "Hobbies",
+    "items": [
+      {
+        "icon": "coffee",
+        "title": "Coffee",
+        "summary": "Every Friday, I volunteer at the 'S Kafi im Stall' café in Steinmaur. Even though I don't drink coffee myself, I enjoy serving the guests and treating them with appreciation."
+      },
+      {
+        "icon": "sports",
+        "title": "Sports",
+        "summary": "I like to do sport with friends and enjoy being active and the company. When I go jogging alone, I try to enjoy the beautiful view and not be too obsessive."
+      },
+      {
+        "icon": "reading",
+        "title": "Reading",
+        "summary": "Books open up new perspectives on familiar things, but I can also simply switch off in stories without thinking too much."
+      },
+      {
+        "icon": "baking",
+        "title": "Baking",
+        "summary": "I like to watch cooking videos to see how professionals cook. Afterwards, I like to try out recipes and proudly enjoy my creations."
+      }
+    ]
   },
   "friendReviews": {
-  "title": "Friend Reviews"
+    "title": "Friend Reviews"
   },
   "contact": {
     "title": "Contact"

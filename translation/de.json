@@ -26,7 +26,29 @@
     "urlText": "Mehr Infos"
   },
   "hobbies": {
-    "title": "Hobbys"
+    "title": "Hobbys",
+    "items": [
+      {
+        "icon": "coffee",
+        "title": "Kaffee",
+        "summary": "Jeden Freitag engagiere ich mich ehrenamtlich im Begegnungscafé 'S Kafi im Stall' in Steinmaur. Auch wenn ich selbst keinen Kaffee trinke, bereitet es mir Freude, den Gästen zu servieren und ihnen mit Wertschätzung zu begegnen."
+      },
+      {
+        "icon": "sports",
+        "title": "Sport",
+        "summary": "Ich treibe gerne Sport mit Freunden zusammen und geniesse das Aktivsein und die Gemeinschaft. Wenn ich alleine joggen gehe, versuche ich die schöne Aussicht zu geniessen und nicht zu verbissen zu sein."
+      },
+      {
+        "icon": "reading",
+        "title": "Lesen",
+        "summary": "Bücher eröffnen mir neue Blicke auf Bekanntes, aber ich kann auch in Geschichten einfach mal abschalten ohne zu viel zu denken."
+      },
+      {
+        "icon": "baking",
+        "title": "Backen",
+        "summary": "Ich schaue gerne Kochvideos, um zu sehen, wie Profis kochen. Danach probiere ich gerne Rezepte aus und genieße stolz meine Kreationen."
+      }
+    ]
   },
   "friendReviews": {
   "title": "Reviews von Freunden"
