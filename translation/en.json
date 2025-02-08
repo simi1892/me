@@ -31,6 +31,9 @@
   "friendReviews": {
   "title": "Friend Reviews"
   },
+  "contact": {
+    "title": "Contact"
+  },
   "about": {
     "summary": "This portfolio is created with Fresh and Deno and tries to give an insight about me."
   }

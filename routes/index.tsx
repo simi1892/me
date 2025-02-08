@@ -1,6 +1,7 @@
 import { Head } from "$fresh/runtime.ts";
 import { PageProps } from "$fresh/server.ts";
 import Business from "../components/Business.tsx";
+import Contact from "../components/Contact.tsx";
 import Footer from "../components/Footer.tsx";
 import FriendReviews from "../components/FriendReviews.tsx";
 import Hobbies from "../components/Hobbies.tsx";
@@ -34,6 +35,7 @@ export default function Home(props: PageProps<null, State>) {
           <Strengths />
           <Hobbies />
           <FriendReviews />
+          <Contact />
           <Footer />
         </main>
       </div>
