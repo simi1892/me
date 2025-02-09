@@ -11,6 +11,7 @@
 - [ ] prettify general
 - [ ] buy domain and publish there as well
 - [ ] CV Download
+- [ ] Sidebar navigation like [here](https://dash.deno.com/projects/portfolio-me/settings)
 
 ## Usage
 
