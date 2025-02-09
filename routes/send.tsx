@@ -11,7 +11,6 @@ export type ContactForm = {
 };
 
 const NTFY_TOPIC = Deno.env.get("NTFY_TOPIC");
-console.log(Deno.env.toObject())
 if (NTFY_TOPIC === undefined) {
   throw Error("NTFY_TOPIC environment variable must be set");
 }
