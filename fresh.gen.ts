@@ -6,7 +6,7 @@ import * as $_404 from "./routes/_404.tsx";
 import * as $_app from "./routes/_app.tsx";
 import * as $_middleware from "./routes/_middleware.tsx";
 import * as $index from "./routes/index.tsx";
-import * as $Counter from "./islands/Counter.tsx";
+import * as $send from "./routes/send.tsx";
 import * as $LanguageToggle from "./islands/LanguageToggle.tsx";
 import type { Manifest } from "$fresh/server.ts";
 
@@ -16,9 +16,9 @@ const manifest = {
     "./routes/_app.tsx": $_app,
     "./routes/_middleware.tsx": $_middleware,
     "./routes/index.tsx": $index,
+    "./routes/send.tsx": $send,
   },
   islands: {
-    "./islands/Counter.tsx": $Counter,
     "./islands/LanguageToggle.tsx": $LanguageToggle,
   },
   baseUrl: import.meta.url,
