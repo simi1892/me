@@ -14,7 +14,6 @@
 - [ ] buy domain and publish there as well
 - [ ] Sidebar navigation like [here](https://dash.deno.com/projects/portfolio-me/settings)
 
-
 ## Usage
 
 Make sure to install Deno: [here](https://deno.land/manual/getting_started/installation)
