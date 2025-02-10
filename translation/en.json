@@ -4,16 +4,56 @@
     "description": "Developer and Human Being"
   },
   "business": {
-    "title": "Business",
+    "title": "Professional",
     "items": [
       {
         "company": "Zürcher Kantonalbank",
-        "location": "Zürich",
-        "dateFrom": "März 2023",
-        "dateTo": "jetzt",
-        "role": "IT Next Generation Coach Sen.",
-        "description": "string",
-        "responsibilities": ["1", "2"]
+        "location": "Zurich",
+        "dateFrom": "March 2023",
+        "dateTo": "present",
+        "role": "Next Generation IT Coach Senior",
+        "description": "Coaching and training of IT apprentices",
+        "responsibilities": [
+          "Training IT fundamentals for first-year apprentices",
+          "Development and operation of a web app for managing and planning trainees",
+          "Guidance & coaching apprentices throughout their apprenticeship",
+          "Recruitment of apprentices"
+        ]
+      },
+      {
+        "company": "Zürcher Kantonalbank",
+        "location": "Zurich",
+        "dateFrom": "November 2019",
+        "dateTo": "February 2023",
+        "role": "DevOps Engineer Professional",
+        "description": "Development in wealth management",
+        "responsibilities": [
+          "Agile implementation of requirements in wealth management and investment proposals",
+          "Insurance platform operations manager"
+        ]
+      },
+      {
+        "company": "Armed Forces Support Command",
+        "location": "Bern",
+        "dateFrom": "January 2019",
+        "dateTo": "November 2019",
+        "role": "Military Service",
+        "description": "Military service",
+        "responsibilities": [
+          "Personal driver for the Chief of Armed Forces Support Command",
+          "Implementation of requirements in Excel with VBA"
+        ]
+      },
+      {
+        "company": "Zürcher Kantonalbank",
+        "location": "Zurich",
+        "dateFrom": "August 2018",
+        "dateTo": "January 2019",
+        "role": "DevOps Engineer",
+        "description": "Development in wealth management",
+        "responsibilities": [
+          "Agile implementation of requirements in wealth management and investment proposals"
+        ]
       }
     ]
   },

@@ -11,9 +11,49 @@
         "location": "Zürich",
         "dateFrom": "März 2023",
         "dateTo": "jetzt",
-        "role": "IT Next Generation Coach Sen.",
-        "description": "string",
-        "responsibilities": ["1", "2"]
+        "role": "Next Generation IT Coach Senior",
+        "description": "Coaching und Ausbildung von IT-Lernenden",
+        "responsibilities": [
+          "Ausbildung IT-Grundkenntnisse Lernende 1. Lehrjahr",
+          "Entwicklung und Betrieb einer WebApp zur Verwaltung und Planung von Auszubildenden",
+          "Begleitung & Coaching Lernende während ganzen Lehr",
+          "Rekrutierung von Lernenden"
+        ]
+      },
+      {
+        "company": "Zürcher Kantonalbank",
+        "location": "Zürich",
+        "dateFrom": "November 2019",
+        "dateTo": "Februar 2023",
+        "role": "DevOps-Engineer Professional",
+        "description": "Entwicklung im Bereich Vermögensverwaltung",
+        "responsibilities": [
+          "Agile Implementierungen von Anforderungen im Bereich Vermögensverwaltung und Anlagevorschläge",
+          "Betriebsverantwortlicher Versicherungsplattform"
+        ]
+      },
+      {
+        "company": "Führungsunterstützungsbasis",
+        "location": "Bern",
+        "dateFrom": "Januar 2019",
+        "dateTo": "November 2019",
+        "role": "Militärdienst als Durchdiener",
+        "description": "Militärischer Dienst",
+        "responsibilities": [
+          "Persönlicher Fahrer Chef Führungsunterstützungsbasis",
+          "Umsetzung von Anfoderungen in Excel mit VBA"
+        ]
+      },
+      {
+        "company": "Zürcher Kantonalbank",
+        "location": "Zürich",
+        "dateFrom": "August 2018",
+        "dateTo": "Januar 2019",
+        "role": "DevOps-Engineer",
+        "description": "Entwicklung im Bereich Vermögensverwaltung",
+        "responsibilities": [
+          "Agile Implementierungen von Anforderungen im Bereich Vermögensverwaltung und Anlagevorschläge"
+        ]
       }
     ]
   },
