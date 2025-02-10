@@ -8,7 +8,7 @@ import Hobbies from "../components/Hobbies.tsx";
 import { PDFFileIcon } from "../components/Icons.tsx";
 import Strengths from "../components/Strengths.tsx";
 import Studies from "../components/Studies.tsx";
-import TitleScreen from "../components/TitleScreen.tsx";
+import Hero from "../components/Hero.tsx";
 import LanguageToggle from "../islands/LanguageToggle.tsx";
 import { T } from "../state.ts";
 import { State } from "./_middleware.tsx";
@@ -42,7 +42,7 @@ export default function Home(props: PageProps<null, State>) {
           </div>
         </header>
         <main>
-          <TitleScreen />
+          <Hero />
           <Business />
           <Studies />
           <Strengths />

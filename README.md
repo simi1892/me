@@ -2,19 +2,24 @@
 
 [Simon](https://portfolio-me.deno.dev)
 ([/ziːmɔn/](https://ipa-reader.com/?text=%5Bˈzi%CB%90m%C9%94n%5D), pronounced
-`Simon`) is a fun guy 🍄‍🟫. Read more about him on this [portfolio site](https://portfolio-me.deno.dev)
+`Simon`) is a fun guy 🍄‍🟫. Read more about him on this
+[portfolio site](https://portfolio-me.deno.dev)
 
 ## Todo
 
 - [ ] implement business part with a horizontal line symbolising a timeline
-- [ ] Add skills. Something like [here](https://perpinya.eu), [Code](https://github.com/evilmonkey19/cv/blob/master/components/skills.tsx)
+- [ ] Add skills. Something like [here](https://perpinya.eu),
+      [Code](https://github.com/evilmonkey19/cv/blob/master/components/skills.tsx)
 - [ ] prettify general
 - [ ] buy domain and publish there as well
-- [ ] Sidebar navigation like [here](https://dash.deno.com/projects/portfolio-me/settings)
+- [ ] Sidebar navigation like
+      [here](https://dash.deno.com/projects/portfolio-me/settings)
+- [ ] what is "use client" and how do I use it?
 
 ## Usage
 
-Make sure to install Deno: [here](https://deno.land/manual/getting_started/installation)
+Make sure to install Deno:
+[here](https://deno.land/manual/getting_started/installation)
 
 Then start the project:
 
