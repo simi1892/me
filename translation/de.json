@@ -126,7 +126,8 @@
     "email": "Email",
     "message": "Nachricht",
     "thankYou": "Danke!",
-    "messageReceived": "Ich habe die Nachricht erhalten und melde mich zeitnah."
+    "messageReceived": "Ich habe die Nachricht erhalten und melde mich zeitnah.",
+    "submit": "Nachricht versenden"
   },
   "about": {
     "summary": "Dieses Portfolio ist mit Fresh und Deno erstellt und probiert einen Einblick über mich zu geben."

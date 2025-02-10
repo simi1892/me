@@ -126,7 +126,8 @@
     "email": "Email",
     "message": "Message",
     "thankYou": "Thank you for reaching out!",
-    "messageReceived": "I'll get back to you as soon as possible."
+    "messageReceived": "I'll get back to you as soon as possible.",
+    "submit": "Send message"
   },
   "about": {
     "summary": "This portfolio is created with Fresh and Deno and tries to give an insight about me."
