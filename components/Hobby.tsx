@@ -8,12 +8,17 @@ interface HobbyProps {
 
 export default function Hobby({ icon, title, summary }: HobbyProps) {
   return (
-    <div className="relative p-6 bg-white rounded-lg shadow-md">
-      <div className="absolute top-4 right-4 text-gray-400">
-        {icon}
+    <>
+      <div
+        key={title}
+        class="rounded-lg border border-border p-6 hover:shadow-lg transition-shadow"
+      >
+        <div class="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center mb-4">
+          {icon}
+        </div>
+        <h3 class="text-xl font-semibold mb-2">{title}</h3>
+        <p class="text-muted-foreground">{summary}</p>
       </div>
-      <h3 className="text-xl font-semibold mb-2">{title}</h3>
-      <p className="text-gray-600">{summary}</p>
-    </div>
+    </>
   );
 }
