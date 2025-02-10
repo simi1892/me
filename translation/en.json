@@ -4,7 +4,18 @@
     "description": "Developer and Human Being"
   },
   "business": {
-    "title": "Business"
+    "title": "Business",
+    "items": [
+      {
+        "company": "Zürcher Kantonalbank",
+        "location": "Zürich",
+        "dateFrom": "März 2023",
+        "dateTo": "jetzt",
+        "role": "IT Next Generation Coach Sen.",
+        "description": "string",
+        "responsibilities": ["1", "2"]
+      }
+    ]
   },
   "studies": {
     "title": "Studies",
