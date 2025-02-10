@@ -17,11 +17,11 @@
 
 ## Usage
 
-Make sure to install Deno: https://deno.land/manual/getting_started/installation
+Make sure to install Deno: [here](https://deno.land/manual/getting_started/installation)
 
 Then start the project:
 
-```
+```bash
 deno task start
 ```
 
