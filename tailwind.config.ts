@@ -1,7 +1,10 @@
-import { Config } from "tailwindcss"
+import type { Config } from "tailwindcss";
 
 export default {
-  content: ["{routes,islands,components}/**/*.{ts,tsx,js,jsx}", "*.{js,ts,jsx,tsx,mdx}"],
+  content: [
+    "{routes,islands,components}/**/*.{ts,tsx,js,jsx}",
+    "*.{js,ts,jsx,tsx,mdx}",
+  ],
   theme: {
     extend: {
       colors: {
@@ -34,4 +37,4 @@ export default {
       },
     },
   },
-} satisfies Config
+} satisfies Config;
