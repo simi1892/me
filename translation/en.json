@@ -7,7 +7,24 @@
     "title": "Business"
   },
   "studies": {
-    "title": "Studies"
+    "title": "Studies",
+    "more": "More",
+    "items": [
+      {
+        "title": "CAS Lernende fördern und coachen",
+        "dateFrom": "2024",
+        "dateTo": "2025",
+        "description": "Vocational training managers encourage, accompany and support the learners so that they can (further) develop.",
+        "link": "https://www.ehb.swiss/cas-foerdern-und-coachen-von-lernenden"
+      },
+      {
+        "title": "Business Information Technology",
+        "dateFrom": "2020",
+        "dateTo": "2024",
+        "description": "Bachelor's Degree Business Information Technology with Specialization in Data Science",
+        "link": "https://www.zhaw.ch/en/sml/study/bachelor/business-information-technology-data-science"
+      }
+    ]
   },
   "strengths": {
     "title": "Strengths",

@@ -7,7 +7,24 @@
     "title": "Geschäftlich"
   },
   "studies": {
-    "title": "Weiterbildungen"
+    "title": "Weiterbildungen",
+    "more": "Mehr",
+    "items": [
+      {
+        "title": "CAS Lernende fördern und coachen",
+        "dateFrom": "2024",
+        "dateTo": "2025",
+        "description": "Berufsbildungsverantwortliche fördern, begleiten und unterstützen die Lernenden, so dass sich diese gestärkt (weiter)entwickeln.",
+        "link": "https://www.ehb.swiss/cas-foerdern-und-coachen-von-lernenden"
+      },
+      {
+        "title": "Wirtschaftsinformatik",
+        "dateFrom": "2020",
+        "dateTo": "2024",
+        "description": "Bachelor in Wirtschaftsinformatik Vertiefung Data Science",
+        "link": "https://www.zhaw.ch/de/sml/studium/bachelor/bachelor-in-wirtschaftsinformatik-data-science"
+      }
+    ]
   },
   "strengths": {
     "title": "Stärken",
@@ -51,7 +68,7 @@
     ]
   },
   "friendReviews": {
-  "title": "Reviews von Freunden"
+    "title": "Reviews von Freunden"
   },
   "contact": {
     "title": "Kontakt",
