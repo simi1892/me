@@ -6,14 +6,14 @@
 
 ## Todo
 
+- [ ] CV Download
 - [ ] implement business part with a horizontal line symbolising a timeline
-- [ ] implement studies
 - [ ] implement friend review
+- [ ] Add skills. Something like [here](https://perpinya.eu), [Code](https://github.com/evilmonkey19/cv/blob/master/components/skills.tsx)
 - [ ] prettify general
 - [ ] buy domain and publish there as well
-- [ ] CV Download
 - [ ] Sidebar navigation like [here](https://dash.deno.com/projects/portfolio-me/settings)
-- [ ] Add skills. Something like [here](https://perpinya.eu), [Code](https://github.com/evilmonkey19/cv/blob/master/components/skills.tsx)
+
 
 ## Usage
 
