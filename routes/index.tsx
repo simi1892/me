@@ -4,7 +4,6 @@ import Business from "../components/Business.tsx";
 import Button from "../components/Button.tsx";
 import Contact from "../components/Contact.tsx";
 import Footer from "../components/Footer.tsx";
-import FriendReviews from "../components/FriendReviews.tsx";
 import Hobbies from "../components/Hobbies.tsx";
 import { PDFFileIcon } from "../components/Icons.tsx";
 import Strengths from "../components/Strengths.tsx";
@@ -48,7 +47,6 @@ export default function Home(props: PageProps<null, State>) {
           <Studies />
           <Strengths />
           <Hobbies />
-          <FriendReviews />
           <Contact />
           <Footer />
         </main>

@@ -7,7 +7,6 @@
 ## Todo
 
 - [ ] implement business part with a horizontal line symbolising a timeline
-- [ ] implement friend review
 - [ ] Add skills. Something like [here](https://perpinya.eu), [Code](https://github.com/evilmonkey19/cv/blob/master/components/skills.tsx)
 - [ ] prettify general
 - [ ] buy domain and publish there as well
