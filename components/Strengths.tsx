@@ -18,7 +18,7 @@ export default function Strengths() {
         <h2 class="text-3xl font-bold text-center mb-12">
           {t.strengths.title}
         </h2>
-        <p>{t.strengths.description}</p>
+        <p class="text-gray-700 leading-relaxed">{t.strengths.description}</p>
         <p>
           <a
             href={t.strengths.url}
