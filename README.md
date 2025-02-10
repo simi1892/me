@@ -7,13 +7,9 @@
 
 ## Todo
 
-- [ ] implement business part with a horizontal line symbolising a timeline
 - [ ] Add skills. Something like [here](https://perpinya.eu),
       [Code](https://github.com/evilmonkey19/cv/blob/master/components/skills.tsx)
-- [ ] prettify general
 - [ ] buy domain and publish there as well
-- [ ] Sidebar navigation like
-      [here](https://dash.deno.com/projects/portfolio-me/settings)
 - [ ] what is "use client" and how do I use it?
 
 ## Usage
