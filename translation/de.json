@@ -57,6 +57,23 @@
       }
     ]
   },
+  "skills": {
+    "title": "Skills",
+    "column1": [
+      { "name": "Java", "rating": 8, "icon": "JavaIcon" },
+      { "name": "Angular", "rating": 7, "icon": "AngularIcon" },
+      { "name": "TypeScript", "rating": 7, "icon": "TypeScriptIcon" }
+    ],
+    "column2": [
+      { "name": "Python", "rating": 5, "icon": "PythonIcon" },
+      { "name": "Deno", "rating": 8, "icon": "DenoIcon" },
+      { "name": "Fresh", "rating": 7, "icon": "FreshIcon" }
+    ],
+    "column3": [
+      { "name": "Github", "rating": 7, "icon": "GitHubIcon" },
+      { "name": "Linux/bash", "rating": 4, "icon": "LinuxIcon" }
+    ]
+  },
   "studies": {
     "title": "Weiterbildungen",
     "more": "Mehr",

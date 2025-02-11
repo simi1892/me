@@ -7,8 +7,6 @@
 
 ## Todo
 
-- [ ] Add skills. Something like [here](https://perpinya.eu),
-      [Code](https://github.com/evilmonkey19/cv/blob/master/components/skills.tsx)
 - [ ] buy domain and publish there as well
 - [ ] what is "use client" and how do I use it?
 

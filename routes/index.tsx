@@ -12,6 +12,7 @@ import Hero from "../components/Hero.tsx";
 import LanguageToggle from "../islands/LanguageToggle.tsx";
 import { T } from "../state.ts";
 import { State } from "./_middleware.tsx";
+import Skills from "../components/Skills.tsx";
 
 function getResume() {
   return (
@@ -44,6 +45,7 @@ export default function Home(props: PageProps<null, State>) {
         <main>
           <Hero />
           <Business />
+          <Skills />
           <Studies />
           <Strengths />
           <Hobbies />
