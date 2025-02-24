@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1200">
+  <!-- Base background -->
+  <rect width="800" height="1200" fill="#42A5F5"/>
+  
+  <!-- Diagonal and horizontal splits -->
+  <path d="M300 0 L900 0 L900 1200 L400 1200 L300 0" fill="#1E88E5"/>
+  
+  <!-- More skewed overlay -->
+  <path d="M0 400 L800 300 L800 800 L0 900 Z" fill="#1976D2" fill-opacity="0.7"/>
+  
+  <!-- Additional diagonal accent -->
+  <path d="M500 0 L900 0 L900 1200 L600 1200 Z" fill="#1565C0" fill-opacity="0.8"/>
+  
+  <!-- Add subtle gradient overlay -->
+  <defs>
+    <linearGradient id="subtle-overlay" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:0.05"/>
+      <stop offset="100%" style="stop-color:#000000;stop-opacity:0.15"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1200" fill="url(#subtle-overlay)"/>
+</svg>
