@@ -3,7 +3,7 @@
 [Simon](https://portfolio-me.deno.dev)
 ([/ziːmɔn/](https://ipa-reader.com/?text=%5Bˈzi%CB%90m%C9%94n%5D), pronounced
 `Simon`) is a fun guy 🍄‍🟫. Read more about him on this
-[portfolio site](https://portfolio-me.deno.dev)
+[portfolio site](https://cv.egli.tf/)
 
 ## Todo
 
